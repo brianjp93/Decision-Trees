@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/data_sets1
+/data_sets2
+/mushrooms
+*.ipynb
+/.ipynb_checkpoints
+/__pycache__
+id3chi.py
